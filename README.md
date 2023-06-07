@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning GOLang/GO
 - 📫 How to reach me: [Discord](https://discord.com/users/1091415878156943472) | [Website](https://professedray4.github.io/)
 - ⚡ Fun fact: I have 4 dogs
-- 
+
 ## Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)

@@ -9,11 +9,11 @@
 - ⚡ Fun fact: I have 4 dogs
 
 ## Languages
-<p align="center">
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-</p>
+
 ## Projects
 
 - [Project 1](https://github.com/ProfessedRay4/Cloudz) - Discord.py raid bot with a sleek ui and proxy scraper

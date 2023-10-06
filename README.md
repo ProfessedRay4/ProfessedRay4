@@ -17,7 +17,7 @@
 ## Projects
 
 - [Cloudz](https://github.com/ProfessedRay4/Cloudz) - Discord.py raid bot with a sleek ui and proxy scraper
-- [Project 2](https://github.com/ProfessedRay4/Discord-automation) - Discord bot farmer with pyautogui
+- [Discord-automation](https://github.com/ProfessedRay4/Discord-automation) - Discord bot farmer with pyautogui
 
 ## GitHub Stats
 

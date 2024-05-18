@@ -4,7 +4,6 @@
 
 ## About Me
 
-- 🌱 I’m currently learning GOLang/GO
 - 📫 How to reach me: [Discord](https://discord.com/users/1091415878156943472) | [Website](https://professedray4.github.io/)
 - ⚡ Fun fact: I have 4 dogs
 

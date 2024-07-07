@@ -1,4 +1,4 @@
-# Hi there, I'm [Jeremiah](https://professedray4.github.io/) 👋
+# Hey there, I'm [Jeremiah](https://professedray4.github.io/) 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ProfessedRay4)
 

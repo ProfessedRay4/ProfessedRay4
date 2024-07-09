@@ -14,8 +14,7 @@
 
 ## Projects
 
-- [Cloudz](https://github.com/ProfessedRay4/Cloudz) - Discord.py raid bot with a sleek ui and proxy scraper
-- [AutoRaid](https://github.com/ProfessedRay4/Discord-AutoRaid) - Discord.py raid bot that automatically raids a server when joining
+- 
 
 ## GitHub Stats
 

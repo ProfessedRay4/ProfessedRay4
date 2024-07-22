@@ -14,7 +14,7 @@
 
 ## Projects
 
-- 
+- deleted
 
 ## GitHub Stats
 

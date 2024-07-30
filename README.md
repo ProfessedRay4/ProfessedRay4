@@ -14,7 +14,7 @@
 
 ## Projects
 
-- deleted
+- [Idle Slayer Cheat](https://github.com/ProfessedRay4/idleSlayer)
 
 ## GitHub Stats
 

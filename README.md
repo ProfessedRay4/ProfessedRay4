@@ -32,9 +32,11 @@
 
 <h2 align=center>Projects</h2>
 <p align=center>
+<a href="https://bmi-calculator-main.vercel.app/" target = "_blank">BMI Calculator</a>
+  <br>
 <a href="https://github.com/ProfessedRay4/idleSlayer" target = "_blank">Idle Slayer Cheat</a>
   <br>
-<p align=center>Coming soon</p>
+<p align=center>More coming soon</p>
 </p>
 
 <h2 align=center>GitHub Stats</h2>

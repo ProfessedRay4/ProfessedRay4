@@ -4,7 +4,7 @@
 <p align=center>
   <img alt=Stats src="https://komarev.com/ghpvc/?username=ProfessedRay4">
 </p>
-<h2 align=center>About Me</h2>
+<h2 align=center>Operating Systems</h2>
 
   <br>
 <p align=center>

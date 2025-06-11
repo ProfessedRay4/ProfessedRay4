@@ -30,10 +30,6 @@
 
 <h2 align=center>Projects</h2>
 <p align=center>
-<a href="https://github.com/ProfessedRay4/BMI-calculator" target = "_blank">BMI Calculator</a>
-  <br>
-<a href="https://github.com/ProfessedRay4/height-converter" target = "_blank">Height Converter</a>
-  <br>
 <a href="https://github.com/ProfessedRay4/idleSlayer" target = "_blank">Idle Slayer Cheat</a>
   <br>
 <p align=center>More coming soon</p>

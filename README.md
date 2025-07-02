@@ -37,7 +37,7 @@
 
 <h2 align=center>GitHub Stats</h2>
 <p align="center">
-  <a href="https://github.com/ProfessedRay4" target = "_blank"><img alt="stats" src="https://github-readme-streak-stats.herokuapp.com?user=professedray4&theme=dark&hide_current_streak=true&hide_longest_streak=true">
+  <a href="https://github.com/ProfessedRay4" target = "_blank"><img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professedray4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 </p>
 
 <h2 align=center>Connect with Me</h2>

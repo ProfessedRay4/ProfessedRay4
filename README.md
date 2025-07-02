@@ -30,8 +30,6 @@
 
 <h2 align=center>Projects</h2>
 <p align=center>
-<a href="https://github.com/ProfessedRay4/idleSlayer" target = "_blank">Idle Slayer Cheat</a>
-  <br>
 <p align=center>More coming soon</p>
 </p>
 

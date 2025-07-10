@@ -37,7 +37,7 @@
   <a href="https://github.com/ProfessedRay4" target = "_blank"><img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professedray4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 </p>
 
-<h2 align=center>Connect with Me</h2>
+<h2 align=center>Socials</h2>
 
 <p align="center">
   <a href="https://professedray4.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%231E90FF.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white"></a>

@@ -39,6 +39,5 @@
 <h2 align=center>Socials</h2>
 
 <p align="center">
-  <a href="https://professedray4.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-%231E90FF.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
   <a href="https://discord.com/users/1091415878156943472" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>

@@ -1,5 +1,5 @@
 
-<h1 align=center>Hey, I'm Ray </h1>
+<h1 align=center>Hey, I'm Jeremiah </h1>
 
 <p align=center>
   <img alt=Stats src="https://komarev.com/ghpvc/?username=ProfessedRay4">
@@ -28,16 +28,10 @@
 
 <h2 align=center>Projects</h2>
 <p align=center>
-<p align=center>More coming soon</p>
+<p align=center>Coming soon</p>
 </p>
 
 <h2 align=center>GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/ProfessedRay4" target = "_blank"><img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professedray4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
-</p>
-
-<h2 align=center>Socials</h2>
-
-<p align="center">
-  <a href="https://discord.com/users/1091415878156943472" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>

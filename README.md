@@ -27,7 +27,7 @@
 
 <h2 align=center>Projects</h2>
 <p align=center>
-<p align=center>Coming soon</p>
+<p align=center>soon</p>
 </p>
 
 <h2 align=center>GitHub Stats</h2>

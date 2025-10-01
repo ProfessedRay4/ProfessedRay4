@@ -1,5 +1,5 @@
 
-<h1 align=center>Hey, I'm Jeremiah </h1>
+<h1 align=center>Hey, I'm Ray </h1>
 
 <p align=center>
   <img alt=Stats src="https://komarev.com/ghpvc/?username=ProfessedRay4">

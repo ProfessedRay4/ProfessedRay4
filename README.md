@@ -32,5 +32,5 @@
 
 <h2 align=center>GitHub Stats</h2>
 <p align="center">
-  <a href="https://github.com/ProfessedRay4" target = "_blank"><img alt="stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=professedray4&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+  <a href="https://github.com/ProfessedRay4" target = "_blank"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=professedray4&show_icons=true&theme=transparent">
 </p>

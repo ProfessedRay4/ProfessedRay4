@@ -29,8 +29,3 @@
 <p align=center>
 <p align=center>soon</p>
 </p>
-
-<h2 align=center>GitHub Stats</h2>
-<p align="center">
-  <a href="https://github.com/ProfessedRay4" target = "_blank"><img alt="stats" src="https://github-readme-stats.vercel.app/api?username=professedray4&show_icons=true&theme=transparent">
-</p>
